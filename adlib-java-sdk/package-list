@@ -1,4 +1,5 @@
 com.adlibsoftware.authorize
 com.adlibsoftware.client
+com.adlibsoftware.exceptions
 com.adlibsoftware.handlers
 com.adlibsoftware.integration
